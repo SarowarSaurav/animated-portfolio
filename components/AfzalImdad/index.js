@@ -44,14 +44,7 @@ export default function AfzalImdad({ }) {
   return (
     <div ref={ref} className={`ai-afzal-imdad ${mount ? 'ai-afzal-imdad-visible' : ''}`}>
       
-      <SvgWrapper
-        className="ai_svg_E1"
-        SVG={E1}
-      />
-      <SvgWrapper
-        className="ai_svg_E2"
-        SVG={E2}
-      />
+     
       
       <SvgWrapper
         className="ai_svg_K1"
